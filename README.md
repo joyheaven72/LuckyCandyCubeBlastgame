@@ -1,3 +1,3 @@
 # Pong-Game
-This is the first game developed b me on 16-05-2020.
+This is the first game developed by me on 16-05-2020.
 Beginning of my journey into gaming world...
